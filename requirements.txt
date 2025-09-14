@@ -1,0 +1,9 @@
+Flask
+tensorflow
+tensorflow_hub
+scikit-learn
+nltk
+pillow
+python-docx
+pdfplumber
+pytesseract
